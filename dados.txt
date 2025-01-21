@@ -1,11 +1,11 @@
 Dados do aluno
 
 -Primeiro Nome: Luis Gustavo de Araújo
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Profissão: Prevenção de Perdas
+-Cidade: Fortaleza CE
+-O que faz nas horas vaga: Estudo e passo tempo com minha namorada.
+-Feedback sobre o curso Qualidade de Software: Alguns exercícios confusos, mas indo bem até então.
+-Feedback sobre a plataforma de estudo da EBAC: Bem interativa e até o momento. Os tutores não deixam na mão.
 
 Obrigado!!!
 
